@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs  
+  resources:
+    - resources/
+    - career_talk/
+
+format:
+  html:
+    self-contained: true
+
+website:
+  title: "Terry O'Malley"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: talks.qmd 
+        text: Talks

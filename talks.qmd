@@ -1,0 +1,7 @@
+---
+title: "Talks"
+---
+
+- **UCD Career Talk** (2025)  
+   [Slides](career_talk/slides.html)
+

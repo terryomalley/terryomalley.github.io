@@ -1,0 +1,25 @@
+---
+title: Terry O'Malley 
+bibliography: resources/mine.bib
+nocite: |
+  @*
+---
+
+Hi. I am an economist/econometrician/data scientist working in tech.
+
+Prior to that, I worked as an economist at the Central Bank of Ireland, and completed a PhD at University College Dublin.
+
+I completed a PhD in economics at University College Dublin, where I was supervised by Prof Morgan Kelly.
+
+::: {.figure-caption style="text-align: center; font-size: 0.8em;"}
+![Young me, in good company.](resources/me.png)
+:::
+
+::: {.content-hidden}
+# Hidden content to ensure proper spacing
+:::
+
+# Publications {#publications}
+
+::: {#refs}
+:::
