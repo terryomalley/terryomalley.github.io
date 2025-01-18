@@ -5,10 +5,6 @@ project:
     - resources/
     - career_talk/
 
-format:
-  html:
-    self-contained: true
-
 website:
   title: "Terry O'Malley"
   navbar:
