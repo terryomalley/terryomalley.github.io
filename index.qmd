@@ -5,9 +5,11 @@ nocite: |
   @*
 ---
 
-Hi. I am an economist/econometrician/data scientist working in tech. 
+Hi. I am an economist and data scientist working in tech. 
 
-Prior to jumping to tech, I worked as a research economist at the Central Bank of Ireland, and completed a PhD at University College Dublin.
+Prior to jumping to industry, I worked as a research economist at the Central Bank of Ireland and did my PhD at University College Dublin.
+
+I mainly work on causal inference and econometrics problems, as well as using microeconomic theory to help guide business decisions around things like selection, pricing and operations.
 
 ::: {.figure-caption style="text-align: center; font-size: 0.8em;"}
 ![Young me, in good company.](resources/me.png)
