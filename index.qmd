@@ -5,11 +5,9 @@ nocite: |
   @*
 ---
 
-Hi. I am an economist/econometrician/data scientist working in tech.
+Hi. I am an economist/econometrician/data scientist working in tech. 
 
-Prior to that, I worked as an economist at the Central Bank of Ireland, and completed a PhD at University College Dublin.
-
-I completed a PhD in economics at University College Dublin, where I was supervised by Prof Morgan Kelly.
+Prior to jumping to tech, I worked as a research economist at the Central Bank of Ireland, and completed a PhD at University College Dublin.
 
 ::: {.figure-caption style="text-align: center; font-size: 0.8em;"}
 ![Young me, in good company.](resources/me.png)
