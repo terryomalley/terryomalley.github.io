@@ -1,7 +1,15 @@
 {
   "name": "R Quarto Environment",
-  "image": "rocker/verse:latest",
-  "postCreateCommand": "wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.551/quarto-1.4.551-linux-amd64.deb && sudo dpkg -i quarto-1.4.551-linux-amd64.deb",
+  "build": { 
+    "dockerfile": "Dockerfile"
+  },
+  "features": {
+    "ghcr.io/devcontainers/features/common-utils:2": {
+      "installZsh": true,
+      "installOhMyZsh": true,
+      "upgradePackages": true
+    }
+  },
   "customizations": {
     "vscode": {
       "extensions": [
