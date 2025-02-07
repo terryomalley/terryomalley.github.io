@@ -114,8 +114,8 @@ format:
 **Why?** 
     
 - All those skills valuable in industry/private sector
-     - Particularly in tech where *lots of data gets collected*         
-- Greater weight on coding skills with emphasis on SQL, R/Python programming, and basic Unix command line proficienc 
+     - Particularly in tech where *lots of data gets collected* by the nature of information systems         
+- Greater weight on coding skills with emphasis on SQL, R/Python programming, and basic Unix command line proficiency
 - Frequent opportunities to have real-world impact 
 - Wide career opportunities 
 
@@ -142,7 +142,7 @@ format:
 
 - Professional skills:	
     - Communication (stakeholders, managers)
-    - Prioritisation and Time Management (“getting shit done”)
+    - Prioritisation and Time Management 
     - Navigating ambiguity
     - Networking  
 
@@ -188,7 +188,7 @@ My opinion, based on considerable hours of introspection and many years of mista
 
 ## Tech Companies Often Run Online Marketplaces 
 
-- Udemy was not selling education products to students, it was selling teachers to students and students to teachers 
+- Udemy is not selling education products to students, it was selling teachers to students and students to teachers 
     - Economics of platform businesses are very different 
 
 - Business leaders and engineers figure this out together over time, but economists who are technically skilled with business acumen can get their faster and avoid pitfalls  
@@ -226,7 +226,7 @@ My opinion, based on considerable hours of introspection and many years of mista
 
 Getting shit done 
 
-## Adopt a Product Mindset 
+## Adopt a Product Mindset {.scrollable}
 
 **From Academic/Research Mindset to Product/Impact Mindset:**
 
@@ -285,6 +285,9 @@ Getting shit done
 
 - Ask lots of questions early. You get a free pass when you're new to a company or new to a project area 
 
+- Write clear documents/ slides on problems and potential solutions and use them to align your manager/stakeholders
+
+- break problems down into manageable chunks
 
 ## Developing professional skills early 
 
@@ -334,7 +337,7 @@ Getting shit done
 
 - Your CV and interviewing skills will immediately get better 
 
-- Grad programmes: Centrl Bank, consulting etc. 
+- Grad programmes: Central Bank, consulting etc. 
 
 - Internships often used in tech as extended job interviews. 
 
