@@ -188,7 +188,7 @@ My opinion, based on considerable hours of introspection and many years of mista
 
 ## Tech Companies Often Run Online Marketplaces 
 
-- Udemy was not selling education products to students, it was selling teachers to students and students to teachers 
+- Udemy is not selling education products to students, it was selling teachers to students and students to teachers 
     - Economics of platform businesses are very different 
 
 - Business leaders and engineers figure this out together over time, but economists who are technically skilled with business acumen can get their faster and avoid pitfalls  
