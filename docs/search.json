@@ -7,27 +7,6 @@
     "text": "Hi. I am an economist and data scientist working in tech.\nPrior to jumping to industry, I worked as a research economist at the Central Bank of Ireland and did my PhD at University College Dublin.\nI mainly work on causal inference and econometrics problems, as well as using microeconomic theory to help guide business decisions around things like selection, pricing and operations.\n\n\n\n\nYoung me, in good company.\n\n\n\n\nPublications\n\n\nKelly, Robert, and Terry O’Malley. 2016. “The Good, the Bad and the Impaired: A Credit Risk Model of the Irish Mortgage Market.” Journal of Financial Stability 22: 1–9.\n\n\nO’Malley, Terry. 2021. “The Impact of Repossession Risk on Mortgage Default.” The Journal of Finance 76 (2): 623–50."
   },
   {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "Talks",
-    "section": "",
-    "text": "UCD Career Talk (2025)\nSlides"
-  },
-  {
-    "objectID": "career_talk/slides.html#slide-2",
-    "href": "career_talk/slides.html#slide-2",
-    "title": "Economics in Tech",
-    "section": "Slide 2",
-    "text": "Slide 2\ntest"
-  },
-  {
-    "objectID": "career_talk/slides.html#test",
-    "href": "career_talk/slides.html#test",
-    "title": "UCD career talk",
-    "section": "test",
-    "text": "test\nsome text"
-  },
-  {
     "objectID": "career_talk/slides.html#guess-no-economists-involved",
     "href": "career_talk/slides.html#guess-no-economists-involved",
     "title": "Economics in Tech",
@@ -42,11 +21,11 @@
     "text": "What I hope to achieve today\n\nAssume your goal: fulfilling and succesful economics career outside academia & public policy e.g. tech data scientist\nShare “what I wish I knew earlier”\nSkills that are only learned through experience, but early awareness helps"
   },
   {
-    "objectID": "career_talk/slides.html#my-career",
-    "href": "career_talk/slides.html#my-career",
+    "objectID": "career_talk/slides.html#me",
+    "href": "career_talk/slides.html#me",
     "title": "Economics in Tech",
-    "section": "My career",
-    "text": "My career\n\nUCD MA, 2013. PhD, 2019."
+    "section": "Me",
+    "text": "Me\n\nUCD MA, 2013. PhD, 2019."
   },
   {
     "objectID": "career_talk/slides.html#my-current-role",
@@ -70,13 +49,6 @@
     "text": "How did I get here?\nCBI\n\nStatistical models for loan-loss forecasting (published in Journal of Financial Stability)\nConstruction of data sets and statistical analyses used to inform macroprudential policy (why you can’t get a massive mortgage anymore)\n\nAcademic Work\n\nPhD 2019, while working in Central Bank\nPublished dissertation chapter in Journal of Finance (using CBI data)\n\nWhat Were My Key Skills?\n\nTechnical: reduced-form causal inference, economic modelling, R + SQL coding\nCommunication: writing journal articles, presenting to policy and academic audiences"
   },
   {
-    "objectID": "career_talk/slides.html#cbi",
-    "href": "career_talk/slides.html#cbi",
-    "title": "Economics in Tech",
-    "section": "CBI",
-    "text": "CBI"
-  },
-  {
     "objectID": "career_talk/slides.html#transition-to-tech-industry",
     "href": "career_talk/slides.html#transition-to-tech-industry",
     "title": "Economics in Tech",
@@ -89,13 +61,6 @@
     "title": "Economics in Tech",
     "section": "Your career: assembling a portfolio of transferrable skills",
     "text": "Your career: assembling a portfolio of transferrable skills\n\nHard to plan your career from the beginning. What will I want to do in 10 years? What will the job market look like?\nPortfolio theory:\n\nDiversify your skillset\nTake more risk at the start of your career\n\nBe open to opportunity and refine your transferable skills.\nTechnical skills:\n\nEconometrics\nComputing skills\n\nProfessional skills:\n\nCommunication (stakeholders, managers)\nPrioritisation and Time Management\nNavigating ambiguity\nNetworking\n\nWith strong technical and professional skills, along with networking, you create opportunities for yourself rather than just being subject to whims of market\nSeek out projects/opportunities to refine your skills"
-  },
-  {
-    "objectID": "career_talk/slides.html#lifecycle-investing-in-your-career",
-    "href": "career_talk/slides.html#lifecycle-investing-in-your-career",
-    "title": "Economics in Tech",
-    "section": "Lifecycle Investing in Your Career:",
-    "text": "Lifecycle Investing in Your Career:\n\nLessons from portfolio theory"
   },
   {
     "objectID": "career_talk/slides.html#where-youre-going-key-skills-of-data-science-leaders",
@@ -112,39 +77,18 @@
     "text": "Tech Companies Run on Metrics\n\n\n\nShareholders care about long-term value of business\nMeasurements that try capture the relevant intermediate or proxy factors that ultimately impact value\nPeople make good careers from building and maintaining systems to calculate them"
   },
   {
-    "objectID": "career_talk/slides.html#your-career-assembling-a-portfolio-of-transferrable-skills-.scrollable",
-    "href": "career_talk/slides.html#your-career-assembling-a-portfolio-of-transferrable-skills-.scrollable",
-    "title": "Economics in Tech",
-    "section": "Your career: assembling a portfolio of transferrable skills {.scrollable}",
-    "text": "Your career: assembling a portfolio of transferrable skills {.scrollable}\n\nHard to plan your career from the beginning. What will I want to do in 10 years? What will the job market look like?\nPortfolio theory:\n\nDiversify your skillset\nTake more risk at the start of your career\n\nBe open to opportunity and refine your transferable skills.\nTechnical skills:\n\nEconometrics\nComputing skills\n\nProfessional skills:\n\nCommunication (stakeholders, managers)\nPrioritisation and Time Management (“getting shit done”)\nNavigating ambiguity\nNetworking\n\nWith strong technical and professional skills, along with networking, you create opportunities for yourself rather than just being subject to whims of market\nSeek out projects/opportunities to refine your skills"
-  },
-  {
-    "objectID": "career_talk/slides.html#where-youre-going-key-skills-of-data-science-leaders-.scrollable",
-    "href": "career_talk/slides.html#where-youre-going-key-skills-of-data-science-leaders-.scrollable",
-    "title": "Economics in Tech",
-    "section": "Where you’re going: key skills of data science leaders .scrollable",
-    "text": "Where you’re going: key skills of data science leaders .scrollable\nMy opinion, based on considerable hours of introspection and many years of mistakes:\n\nBridges technical and business worlds\n\n\nTranslate complex models into actionable advice and decisions\nRecognise and take advantage of business leaders’ domain expertise\n\n\nSolves the highest-impact problems\n\n\nPriortise speed of delivery while maintaining the required level of rigour\nRuthlessly prioritise valuable problems over interesting problems\n\n\nLead through influence and not authority\n\n\nCommunicates clear insights and actions rather than technical elegance\nNavigates organisation politics to drive change"
-  },
-  {
     "objectID": "career_talk/slides.html#tech-companies-often-run-online-marketplaces",
     "href": "career_talk/slides.html#tech-companies-often-run-online-marketplaces",
     "title": "Economics in Tech",
     "section": "Tech Companies Often Run Online Marketplaces",
-    "text": "Tech Companies Often Run Online Marketplaces\n\nUdemy is not selling education products to students, it was selling teachers to students and students to teachers\n\nEconomics of platform businesses are very different\n\nBusiness leaders and engineers figure this out together over time, but economists who are technically skilled with business acumen can get their faster and avoid pitfalls"
-  },
-  {
-    "objectID": "career_talk/slides.html#tech-companies-often-have-ability-to-implement-novel-pricing",
-    "href": "career_talk/slides.html#tech-companies-often-have-ability-to-implement-novel-pricing",
-    "title": "Economics in Tech",
-    "section": "Tech Companies Often Have Ability to Implement Novel Pricing",
-    "text": "Tech Companies Often Have Ability to Implement Novel Pricing\n\nPossibility to change prices in a split second, to run massive auctions\nEconomists have helped Yahoo! design their"
+    "text": "Tech Companies Often Run Online Marketplaces\n\nUdemy is not selling education products to students, it is selling teachers to students and students to teachers\n\nEconomics of platform businesses are very different\n\nBusiness leaders and engineers figure this out together over time, but economists who are technically skilled and possess some business acumen can get there faster while avoiding pitfalls"
   },
   {
     "objectID": "career_talk/slides.html#tech-companies-collect-a-huge-amount-of-data",
     "href": "career_talk/slides.html#tech-companies-collect-a-huge-amount-of-data",
     "title": "Economics in Tech",
     "section": "Tech Companies Collect a Huge Amount of Data",
-    "text": "Tech Companies Collect a Huge Amount of Data\n\nLike any business, their decisions benefit from evaluation\nUnlike others, they naturally collect heaps of data\nInternal AB testing platforms: ability to conduct randomised experiments\n\nEconomists often contribute\n\nBut often messy and observational, tech-skilled economists can build data sets and answer causal questions\n\nBusiness decisions are often causal questions\n\nAmazon economists: vast majority are experts in Mostly Harmless Econometrics (Angrist & Pischke, 2009)"
+    "text": "Tech Companies Collect a Huge Amount of Data\n\nLike any business, their decisions benefit from evaluation\nUnlike others, they naturally collect heaps of data\nInternal AB testing platforms: ability to conduct randomised experiments\n\nEconomists often contribute\n\nBut often messy and observational, tech-skilled economists can build data sets and answer causal questions\n\nBusiness decisions usually require answers to causal questions e.g. what’s the impact of a price change on revenue?\n\nAmazon economists: vast majority are experts in Mostly Harmless Econometrics (Angrist & Pischke, 2009)"
   },
   {
     "objectID": "career_talk/slides.html#tech-companies-have-ability-to-implement-novel-pricing",
@@ -154,46 +98,11 @@
     "text": "Tech Companies Have Ability to Implement Novel Pricing\n\nReal-time price adjustments at scale using cloud infrastructure\nEconomists helped design:\n\nYahoo!’s first search ad auctions\nGoogle’s AdWords bidding system\nUber’s surge pricing algorithms\n\nRequires understanding of:\n\nPrice elasticity estimation\nMarketplace equilibrium concepts"
   },
   {
-    "objectID": "career_talk/slides.html#me",
-    "href": "career_talk/slides.html#me",
-    "title": "Economics in Tech",
-    "section": "Me",
-    "text": "Me\n\nUCD MA, 2013. PhD, 2019."
-  },
-  {
-    "objectID": "career_talk/slides.html#adapt-a-product-mindset",
-    "href": "career_talk/slides.html#adapt-a-product-mindset",
-    "title": "Economics in Tech",
-    "section": "Adapt a Product Mindset",
-    "text": "Adapt a Product Mindset"
-  },
-  {
-    "objectID": "career_talk/slides.html#section-5",
-    "href": "career_talk/slides.html#section-5",
-    "title": "Economics in Tech",
-    "section": "",
-    "text": "How Netflix builds a culture of excellence | Elizabeth Stone (CTO)\n\n\n\n\n\nEconomic thinking and a mini MBA for data scientists with Amit Gandhi - The Data Scientist Show\n\n\n\n\n\nWhy Tech Companies Need Economist-Engineers | Vincent Martin from Meta"
-  },
-  {
-    "objectID": "career_talk/slides.html#section-6",
-    "href": "career_talk/slides.html#section-6",
-    "title": "Economics in Tech",
-    "section": "",
-    "text": "How Netflix builds a culture of excellence | Elizabeth Stone (CTO)\n\n\n\n\n\nEconomic thinking and a mini MBA for data scientists with Amit Gandhi - The Data Scientist Show\n\n\n\n\n\nWhy Tech Companies Need Economist-Engineers | Vincent Martin from Meta"
-  },
-  {
-    "objectID": "career_talk/slides.html#useful-resources",
-    "href": "career_talk/slides.html#useful-resources",
-    "title": "Economics in Tech",
-    "section": "Useful Resources",
-    "text": "Useful Resources\n\n\n\nhttps://www.youtube.com/watch?v=PJPFLHw8lKI\nQUESTIONS?"
-  },
-  {
     "objectID": "career_talk/slides.html#adopt-a-product-mindset",
     "href": "career_talk/slides.html#adopt-a-product-mindset",
     "title": "Economics in Tech",
     "section": "Adopt a Product Mindset",
-    "text": "Adopt a Product Mindset\nFrom Academic/Research Mindset to Product/Impact Mindset:\n\nAlways be solving problems by shipping products\n\nFor any piece of work that you do, ask yourself what’s the product your building?\nThen put yourself in your customer’s shoes and ask how your product solves their problems\n\nAnything can be a product\n\nDocument, slide deck, code, model\n\n\nPrinciples:\n\nOutcomes &gt; outputs\nIterate with MVPs (Minimum Viable Proof-of-Concept)\n\nRace to close-the-loop. Start getting feedback early.\n\nThink in tradeoffs"
+    "text": "Adopt a Product Mindset\nFrom Academic/Research Mindset to Product/Impact Mindset:\n\nAlways be solving problems by shipping products\n\nFor any piece of work that you do, ask yourself what’s the product you’re building?\nThen put yourself in your customer’s shoes and ask how your product solves their problems\n\nAnything can be a product\n\nDocument, slide deck, code, model\n\n\nPrinciples:\n\nOutcomes &gt; outputs\nIterate with MVPs (Minimum Viable Proof-of-Concept)\n\nRace to close-the-loop. Start getting feedback early.\n\nThink in tradeoffs"
   },
   {
     "objectID": "career_talk/slides.html#prioritisation",
@@ -217,6 +126,13 @@
     "text": "Communicating with stakeholders\n\nAlways be storytelling\nBusiness stakeholders don’t care about technical jargon or about what economic theory has to say about their business\nThey want to know what their problems are, how you plan on fixing them and if you’ve fixed their problems"
   },
   {
+    "objectID": "career_talk/slides.html#navigating-ambiguity",
+    "href": "career_talk/slides.html#navigating-ambiguity",
+    "title": "Economics in Tech",
+    "section": "Navigating Ambiguity",
+    "text": "Navigating Ambiguity\n\nAmbiguity in modern professional environment: very unlikely that somebody will hand you a list of tasks and instruction manual\nAsk lots of questions early. You get a free pass when you’re new to a company or new to a project area\nWrite clear documents/ slides on problems and potential solutions and use them to align your manager/stakeholders\nbreak problems down into manageable chunks"
+  },
+  {
     "objectID": "career_talk/slides.html#developing-professional-skills-early",
     "href": "career_talk/slides.html#developing-professional-skills-early",
     "title": "Economics in Tech",
@@ -238,18 +154,18 @@
     "text": "Your CV\n\nShow, don’t tell\nTalk up your achievements, don’t just naively present them. Tell your story.\nProbably better advice on LinkedIn than I can give"
   },
   {
-    "objectID": "career_talk/slides.html#your-first-job-is-not-your-last",
-    "href": "career_talk/slides.html#your-first-job-is-not-your-last",
-    "title": "Economics in Tech",
-    "section": "Your first job is not your last",
-    "text": "Your first job is not your last\n\nEven if you don’t land your perfect role, you can immediately start to hone your professional skills\nYour CV and interviewing skills will immediately get better\nGrad programmes: Central Bank, consulting etc.\nInternships often used in tech as extended job interviews."
-  },
-  {
     "objectID": "career_talk/slides.html#interviewing",
     "href": "career_talk/slides.html#interviewing",
     "title": "Economics in Tech",
     "section": "Interviewing",
     "text": "Interviewing\n\nHiring is noisy. Interviewing gives hiring managers chance to see how you work.\nNothing to fear. Think of it as your opportunity to show off your achievements\n\nLike you’re being interviewed on a podcast\n\nSTAR method\n\nYou can make a huge difference here if you do it right\n\nSolving coding problems: talk aloud about how you’re solving the problem"
+  },
+  {
+    "objectID": "career_talk/slides.html#your-first-job-is-not-your-last",
+    "href": "career_talk/slides.html#your-first-job-is-not-your-last",
+    "title": "Economics in Tech",
+    "section": "Your first job is not your last",
+    "text": "Your first job is not your last\n\nEven if you don’t land your perfect role, you can immediately start to hone your professional skills\nYour CV and interviewing skills will immediately get better\nGrad programmes: Central Bank, consulting etc.\nInternships often used in tech as extended job interviews."
   },
   {
     "objectID": "career_talk/slides.html#an-open-job-in-my-former-team",
@@ -259,17 +175,17 @@
     "text": "An open job in my former team\nhttps://amazon.jobs/en/jobs/2884779/economic-research-analyst-economic-decision-science"
   },
   {
-    "objectID": "career_talk/slides.html#navigating-ambiguity",
-    "href": "career_talk/slides.html#navigating-ambiguity",
+    "objectID": "career_talk/slides.html#useful-resources",
+    "href": "career_talk/slides.html#useful-resources",
     "title": "Economics in Tech",
-    "section": "Navigating Ambiguity",
-    "text": "Navigating Ambiguity\n\nAmbiguity in modern professional environment: very unlikely that somebody will hand you a list of tasks and instruction manual\nAsk lots of questions early. You get a free pass when you’re new to a company or new to a project area\nWrite clear documents/ slides on problems and potential solutions and use them to align your manager/stakeholders\nbreak problems down into manageable chunks"
+    "section": "Useful Resources",
+    "text": "Useful Resources\n\n\n\nhttps://www.youtube.com/watch?v=PJPFLHw8lKI\nQUESTIONS?"
   },
   {
-    "objectID": "career_talk/slides.html#more-resources",
-    "href": "career_talk/slides.html#more-resources",
-    "title": "Economics in Tech",
-    "section": "More Resources",
-    "text": "More Resources\n[     \n]{.quarto-shortcode__ data-is-shortcode=“1” data-raw=“{{&lt; video https://www.youtube.com/watch?v=PJPFLHw8lKI title \"15 yeras in 90 mins\" start=\"1\" aspect-ratio=\"21x9\"\n\n}}“}"
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "UCD Career Talk (2025)\nSlides"
   }
 ]

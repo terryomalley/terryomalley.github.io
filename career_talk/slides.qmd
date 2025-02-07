@@ -188,10 +188,10 @@ My opinion, based on considerable hours of introspection and many years of mista
 
 ## Tech Companies Often Run Online Marketplaces 
 
-- Udemy is not selling education products to students, it was selling teachers to students and students to teachers 
+- Udemy is not selling education products to students, it is selling teachers to students and students to teachers 
     - Economics of platform businesses are very different 
 
-- Business leaders and engineers figure this out together over time, but economists who are technically skilled with business acumen can get their faster and avoid pitfalls  
+- Business leaders and engineers figure this out together over time, but economists who are technically skilled and possess some business acumen can get there faster while avoiding pitfalls  
 
 
 
@@ -205,7 +205,7 @@ My opinion, based on considerable hours of introspection and many years of mista
     - Economists often contribute 
 
 - But often messy and observational, tech-skilled economists can build data sets and answer causal questions
-    - Business decisions are often causal questions 
+    - Business decisions usually require answers to causal questions e.g. what's the impact of a price change on revenue? 
 
 - Amazon economists: vast majority are experts in Mostly Harmless Econometrics (Angrist & Pischke, 2009)
 
@@ -231,7 +231,7 @@ Getting shit done
 **From Academic/Research Mindset to Product/Impact Mindset:**
 
 - Always be solving problems by shipping products 
-    - For any piece of work that you do, ask yourself what's the product your building? 
+    - For any piece of work that you do, ask yourself what's the product you're building? 
     - Then put yourself in your customer's shoes and ask how your product solves their problems
 
 - Anything can be a product 
