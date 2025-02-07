@@ -114,8 +114,8 @@ format:
 **Why?** 
     
 - All those skills valuable in industry/private sector
-     - Particularly in tech where *lots of data gets collected*         
-- Greater weight on coding skills with emphasis on SQL, R/Python programming, and basic Unix command line proficienc 
+     - Particularly in tech where *lots of data gets collected* by the nature of information systems         
+- Greater weight on coding skills with emphasis on SQL, R/Python programming, and basic Unix command line proficiency
 - Frequent opportunities to have real-world impact 
 - Wide career opportunities 
 
@@ -286,6 +286,7 @@ Getting shit done
 - Ask lots of questions early. You get a free pass when you're new to a company or new to a project area 
 
 - Write clear documents/ slides on problems and potential solutions and use them to align your manager/stakeholders
+
 - break problems down into manageable chunks
 
 ## Developing professional skills early 
