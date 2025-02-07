@@ -186,14 +186,14 @@
     "href": "career_talk/slides.html#useful-resources",
     "title": "Economics in Tech",
     "section": "Useful Resources",
-    "text": "Useful Resources"
+    "text": "Useful Resources\n\n\n\nhttps://www.youtube.com/watch?v=PJPFLHw8lKI\nQUESTIONS?"
   },
   {
     "objectID": "career_talk/slides.html#adopt-a-product-mindset",
     "href": "career_talk/slides.html#adopt-a-product-mindset",
     "title": "Economics in Tech",
     "section": "Adopt a Product Mindset",
-    "text": "Adopt a Product Mindset\nFrom Academic/Research Mindset to Product/Impact Mindset:\n\nAlways be solving problems by shipping products\n\nFor any piece of work that you do, ask yourself what’s the product your building?\nThen put yourself in your customer’s shoes and ask how your product solves their problems\n\nAnything can be a product\n\nDocument, slide deck, code, model\n\n\nPrinciples: 1. Outcomes &gt; outputs 2. Iterate with MVPs (Minimum Viable Proof-of-Concept) - Race to close-the-loop. Start getting feedback early. 3. Think in tradeoffs"
+    "text": "Adopt a Product Mindset\nFrom Academic/Research Mindset to Product/Impact Mindset:\n\nAlways be solving problems by shipping products\n\nFor any piece of work that you do, ask yourself what’s the product your building?\nThen put yourself in your customer’s shoes and ask how your product solves their problems\n\nAnything can be a product\n\nDocument, slide deck, code, model\n\n\nPrinciples:\n\nOutcomes &gt; outputs\nIterate with MVPs (Minimum Viable Proof-of-Concept)\n\nRace to close-the-loop. Start getting feedback early.\n\nThink in tradeoffs"
   },
   {
     "objectID": "career_talk/slides.html#prioritisation",
@@ -257,5 +257,19 @@
     "title": "Economics in Tech",
     "section": "An open job in my former team",
     "text": "An open job in my former team\nhttps://amazon.jobs/en/jobs/2884779/economic-research-analyst-economic-decision-science"
+  },
+  {
+    "objectID": "career_talk/slides.html#navigating-ambiguity",
+    "href": "career_talk/slides.html#navigating-ambiguity",
+    "title": "Economics in Tech",
+    "section": "Navigating Ambiguity",
+    "text": "Navigating Ambiguity\n\nAmbiguity in modern professional environment: very unlikely that somebody will hand you a list of tasks and instruction manual\nAsk lots of questions early. You get a free pass when you’re new to a company or new to a project area"
+  },
+  {
+    "objectID": "career_talk/slides.html#more-resources",
+    "href": "career_talk/slides.html#more-resources",
+    "title": "Economics in Tech",
+    "section": "More Resources",
+    "text": "More Resources\n[     \n]{.quarto-shortcode__ data-is-shortcode=“1” data-raw=“{{&lt; video https://www.youtube.com/watch?v=PJPFLHw8lKI title \"15 yeras in 90 mins\" start=\"1\" aspect-ratio=\"21x9\"\n\n}}“}"
   }
 ]

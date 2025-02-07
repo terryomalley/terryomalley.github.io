@@ -91,7 +91,7 @@ format:
 - Demonstrate scientific solution to business people or engineers. 
 
 
-## How did I get here? 
+## How did I get here? {.scrollable}
 
 **CBI** 
 
@@ -238,6 +238,7 @@ Getting shit done
     - Document, slide deck, code, model 
 
 **Principles:**
+
 1. Outcomes > outputs
 2. Iterate with MVPs (Minimum Viable Proof-of-Concept)
     - Race to close-the-loop. Start getting feedback early. 
@@ -277,6 +278,13 @@ Getting shit done
 - Business stakeholders don't care about technical jargon or about what economic theory has to say about their business 
 
 - They want to know what their problems are, how you plan on fixing them and if you've fixed their problems 
+
+## Navigating Ambiguity 
+
+- Ambiguity in modern professional environment: very unlikely that somebody will hand you a list of tasks and instruction manual 
+
+- Ask lots of questions early. You get a free pass when you're new to a company or new to a project area 
+
 
 ## Developing professional skills early 
 
@@ -355,3 +363,7 @@ Getting shit done
     start="116"
     aspect-ratio="21x9" 
 >}}
+
+<https://www.youtube.com/watch?v=PJPFLHw8lKI>
+
+**QUESTIONS?**
