@@ -1,9 +1,357 @@
 ---
-title: "UCD career talk"
-format: revealjs
+title: "Economics in Tech"
+author:  "Terry O'Malley (MA, 2013)" 
+format:
+  clean-revealjs:
+    theme: [default]
+    scrollable: false
+    include-in-header:
+      text: |
+        <style>
+       
+        .reveal img {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+        }
+        </style>
 ---
 
-# test 
+## 
+
+![](img/bb1.PNG)
 
 
-some text 
+## 
+
+![](img/bb2.PNG)
+
+
+## 
+
+![](img/bigjeff.png)
+
+
+## 
+
+![](img/yoga.PNG)
+
+
+## 
+
+![](img/goodvibes.png)
+
+## Guess: no economists involved 
+
+![](img/badvibes.PNG)
+
+
+## What I hope to achieve today  
+
+- Assume your goal: fulfilling and succesful economics career outside academia & public policy e.g. tech data scientist 
+
+- Share "what I wish I knew earlier"
+
+- Skills that are only learned through experience, but early awareness helps 
+
+# Overview 
+
+1. My career and thinking about your own 
+2. Data science and economics in tech 
+3. Skills for success 
+4. Advice for aspiring tech workers
+
+
+# My career and thinking about your own  
+
+## Me 
+
+- UCD MA, 2013. PhD, 2019. 
+
+![](img/mise.PNG)
+
+
+## My Current Role 
+
+- Principal Applied Scientist at Huawei Ireland Research Centre (IRC) 
+
+- Applied Scientist role:
+    
+    - Work at the intersection of research and real-world product development (product, engineering) 
+    -   Requires research experience and expertise in a field like economics, computer science, operations research, statistics/ML.  
+    - Alongside engineering skills (e.g. ability to write a prototype software package), and business intuition 
+
+## Typical day-in-the-life
+    
+- Read business slide decks on product leaders’ goals for next year 
+- Read academic paper on applied analysis of cloud operations, econometric theory and practice  
+- Write R/python/SQL code to conduct exploratory data analysis, prototype a new statistical model, conduct a simulation 
+- Conduct calls with product teams in HQ to better understand business challenges and key goals
+- Write document to clarify a business challenge and turn into a concrete science problem and disucss with colleagues
+- Demonstrate scientific solution to business people or engineers. 
+
+
+## How did I get here? 
+
+**CBI** 
+
+- Statistical models for loan-loss forecasting (published in *Journal of Financial Stability*) 
+- Construction of data sets and statistical analyses used to inform macroprudential policy (why you can’t get a massive mortgage anymore) 
+
+**Academic Work**  
+
+- PhD 2019, while working in Central Bank 
+- Published dissertation chapter in *Journal of Finance* (using CBI data) 
+
+**What Were My Key Skills?**  
+
+- Technical: reduced-form causal inference, economic modelling, R + SQL coding
+- Communication: writing journal articles, presenting to policy and academic audiences 
+
+
+## Transition to tech industry 
+
+**Why?** 
+    
+- All those skills valuable in industry/private sector
+     - Particularly in tech where *lots of data gets collected*         
+- Greater weight on coding skills with emphasis on SQL, R/Python programming, and basic Unix command line proficienc 
+- Frequent opportunities to have real-world impact 
+- Wide career opportunities 
+
+**Challenges** 
+    
+- Pace of working 
+- Engineering skills 
+- Navigating ambiguity 
+
+
+## Your career: assembling a portfolio of transferrable skills  {.scrollable}
+
+- Hard to plan your career from the beginning. What will I want to do in 10 years? What will the job market look like?
+
+- Portfolio theory: 
+    - Diversify your skillset
+    - Take more risk at the start of your career 
+
+- Be open to opportunity and refine your transferable skills. 
+
+- Technical skills: 
+    - Econometrics 
+    - Computing skills 
+
+- Professional skills:	
+    - Communication (stakeholders, managers)
+    - Prioritisation and Time Management (“getting shit done”)
+    - Navigating ambiguity
+    - Networking  
+
+- With strong technical and professional skills, along with networking, you create opportunities for yourself rather than just being subject to whims of market 
+
+- Seek out projects/opportunities to refine your skills 
+
+
+## Where you're going: key skills of data science leaders   {.smaller}
+
+My opinion, based on considerable hours of introspection and many years of mistakes: 
+
+1. Bridges technical and business worlds 
+- Translate complex models into actionable advice and decisions 
+- Recognise and take advantage of business leaders’ domain expertise 
+2. Solves the highest-impact problems 
+- Priortise speed of delivery while maintaining the required level of rigour 
+- Ruthlessly prioritise valuable problems over interesting problems 
+3. Lead through influence and not authority
+- Communicates clear insights and actions rather than technical elegance 
+- Navigates organisation politics to drive change  
+
+# Economic Data Science 
+
+
+## Tech Companies Run on Metrics {.smaller}
+
+:::: {.columns}
+
+::: {.column width="40%"}
+- Shareholders care about long-term value of business 
+- Measurements that try capture the relevant intermediate or proxy factors that ultimately impact value 
+- People make good careers from building and maintaining systems to calculate them
+
+:::
+
+::: {.column width="60%"}
+![](img/meta_results.PNG)
+:::
+
+::::
+
+
+## Tech Companies Often Run Online Marketplaces 
+
+- Udemy was not selling education products to students, it was selling teachers to students and students to teachers 
+    - Economics of platform businesses are very different 
+
+- Business leaders and engineers figure this out together over time, but economists who are technically skilled with business acumen can get their faster and avoid pitfalls  
+
+
+
+## Tech Companies Collect a Huge Amount of Data 
+
+- Like any business, their decisions benefit from evaluation 
+
+- Unlike others, they naturally collect heaps of data 
+
+- Internal AB testing platforms: ability to conduct randomised experiments 
+    - Economists often contribute 
+
+- But often messy and observational, tech-skilled economists can build data sets and answer causal questions
+    - Business decisions are often causal questions 
+
+- Amazon economists: vast majority are experts in Mostly Harmless Econometrics (Angrist & Pischke, 2009)
+
+
+## Tech Companies Have Ability to Implement Novel Pricing {.smaller}
+
+- Real-time price adjustments at scale using cloud infrastructure
+- Economists helped design:
+    - Yahoo!'s first search ad auctions
+    - Google's AdWords bidding system
+    - Uber's surge pricing algorithms
+- Requires understanding of:
+    - Price elasticity estimation
+    - Marketplace equilibrium concepts
+
+
+# Skills For Success 
+
+Getting shit done 
+
+## Adopt a Product Mindset 
+
+**From Academic/Research Mindset to Product/Impact Mindset:**
+
+- Always be solving problems by shipping products 
+    - For any piece of work that you do, ask yourself what's the product your building? 
+    - Then put yourself in your customer's shoes and ask how your product solves their problems
+
+- Anything can be a product 
+    - Document, slide deck, code, model 
+
+**Principles:**
+1. Outcomes > outputs
+2. Iterate with MVPs (Minimum Viable Proof-of-Concept)
+    - Race to close-the-loop. Start getting feedback early. 
+3. Think in tradeoffs
+
+
+## Prioritisation 
+
+- 80-20 rule
+
+- Most projects are like the orange line. Treating them like the blue line is bad. 
+
+![](img/impact_time.png)
+
+- Effective prioritisation is like solving a knapsack optimisation problem  
+    - Continuously rank your tasks by $\frac{\text{impact}}{\text{effort}}$ and start from the top 
+
+
+## Managing Up (communicating with your manager)
+
+- Manager should be your ally and advocate
+
+- Good managers will help you manage your trade-offs and remove 'blockers', but they are not mind readers 
+
+1. Set clear expectations: "here are my priorities for this month, do you agree?"
+2. Status update anxiety: email updates on progress, 'blockers' and next steps ahead of meeting 
+3. Ask for feedback regularly: "how am I doing?", and don't be suprised by year-end feedback 
+
+- No 'long ranger' behaviour. Build trust and be open with your manager. 
+
+- Similar lessons apply to stakeholder communication: business stakeholders hate surprises 
+
+## Communicating with stakeholders 
+
+- Always be storytelling 
+
+- Business stakeholders don't care about technical jargon or about what economic theory has to say about their business 
+
+- They want to know what their problems are, how you plan on fixing them and if you've fixed their problems 
+
+## Developing professional skills early 
+
+- All of these skills can be practised in disseration, work placements, group projects 
+
+
+# Advice for Aspiring Tech Workers 
+
+## Networking 
+
+- Is very difficult 
+
+- To get your CV looked at, you need a huge amount of luck or a referral from somebody working in the company 
+
+- It's okay to contact people on LinkedIn without somebody introducing you first (via email for example)
+    - Expect to be ghosted 
+    - Be extremely direct and to the point 
+    - Find common ground e.g. I read your work on XYZ for my disserations, we both studied UCD economics
+    - Be courteous
+
+## Your CV 
+
+- Show, don't tell 
+
+- Talk up your achievements, don't just naively present them. Tell your story. 
+
+- Probably better advice on LinkedIn than I can give 
+
+## Interviewing 
+
+- Hiring is noisy. Interviewing gives hiring managers chance to see how you work. 
+
+- Nothing to fear. Think of it as your opportunity to show off your achievements 
+    - Like you're being interviewed on a podcast 
+
+- STAR method 
+    - You can make a huge difference here if you do it right 
+
+
+- Solving coding problems: talk aloud about how you're solving the problem 
+
+
+
+## Your first job is not your last 
+
+- Even if you don't land your perfect role, you can immediately start to hone your professional skills 
+
+- Your CV and interviewing skills will immediately get better 
+
+- Grad programmes: Centrl Bank, consulting etc. 
+
+- Internships often used in tech as extended job interviews. 
+
+## An open job in my former team 
+
+<https://amazon.jobs/en/jobs/2884779/economic-research-analyst-economic-decision-science>
+
+
+## Useful Resources 
+
+{{< video https://www.youtube.com/watch?v=2XgU6T4DalY
+    title="How Netflix builds a culture of excellence | Elizabeth Stone (CTO)"
+    start="116"
+    aspect-ratio="21x9" 
+>}}
+
+
+{{< video https://www.youtube.com/watch?v=uk2BIDgz7Xw
+    title="Economic thinking and a mini MBA for data scientists with Amit Gandhi - The Data Scientist Show"
+    start="116"
+    aspect-ratio="21x9" 
+>}}
+
+{{< video https://www.youtube.com/watch?v=AtOUhe9Nzw0
+    title="Why Tech Companies Need Economist-Engineers | Vincent Martin from Meta | Elizabeth Stone (CTO)"
+    start="116"
+    aspect-ratio="21x9" 
+>}}
