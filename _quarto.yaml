@@ -1,15 +1,32 @@
 project:
   type: website
-  output-dir: docs  
+  output-dir: docs
   resources:
     - resources/
     - career_talk/
 
 website:
   title: "Terry O'Malley"
+  description: "Economist and Data Scientist - Research in causal inference, econometrics, and microeconomic theory"
+  image: resources/me.png
+  site-url: "https://terryomalley.github.io"
+  repo-url: "https://github.com/terryomalley/terryomalley.github.io"
+  open-graph: true
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: talks.qmd 
+      - href: publications.qmd
+        text: Publications
+      - href: talks.qmd
         text: Talks
+  page-footer: "© 2026 Terry O'Malley"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    include-in-header:
+      text: |
+        <meta name="google-site-verification" content="wLT1G-vGuxSIGZ9AdVWWJbC084zFoQ6rYGge8RhlH2M" />

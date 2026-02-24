@@ -1,0 +1,38 @@
+---
+title: "Publications"
+---
+
+## Published Work
+
+::: {.card style="margin-bottom: 1.5rem;"}
+**The Impact of Repossession Risk on Mortgage Default**  
+*The Journal of Finance*, 2021  
+Terry O'Malley  
+[PDF](resources/jf_paper.pdf)
+:::
+
+::: {.card style="margin-bottom: 1.5rem;"}
+**The Good, the Bad and the Impaired: A Credit Risk Model of the Irish Mortgage Market**  
+*Journal of Financial Stability*, 2016  
+Robert Kelly and Terry O'Malley  
+[DOI](https://doi.org/10.1016/j.jfs.2015.11.001)
+:::
+
+## Working Papers
+
+::: {.card style="margin-bottom: 1.5rem;"}
+**[Your Working Paper Title]**  
+*Work in Progress*  
+Terry O'Malley  
+:::
+
+::: {.card style="margin-bottom: 1.5rem;"}
+**[Another Working Paper Title]**  
+*Work in Progress*  
+Terry O'Malley  
+:::
+
+---
+
+For a complete list of publications and citations, see my  
+[Google Scholar](https://scholar.google.com/) | [SSRN](https://ssrn.com/) | [ResearchGate](https://www.researchgate.net/)

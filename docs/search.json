@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Terry O’Malley",
-    "section": "",
-    "text": "Hi. I am an economist and data scientist working in tech.\nPrior to jumping to industry, I worked as a research economist at the Central Bank of Ireland and did my PhD at University College Dublin.\nI mainly work on causal inference and econometrics problems, as well as using microeconomic theory to help guide business decisions around things like selection, pricing and operations.\n\n\n\n\nYoung me, in good company.\n\n\n\n\nPublications\n\n\nKelly, Robert, and Terry O’Malley. 2016. “The Good, the Bad and the Impaired: A Credit Risk Model of the Irish Mortgage Market.” Journal of Financial Stability 22: 1–9.\n\n\nO’Malley, Terry. 2021. “The Impact of Repossession Risk on Mortgage Default.” The Journal of Finance 76 (2): 623–50."
-  },
-  {
     "objectID": "career_talk/slides.html#guess-no-economists-involved",
     "href": "career_talk/slides.html#guess-no-economists-involved",
     "title": "Economics in Tech",
@@ -182,10 +175,59 @@
     "text": "Useful Resources\n\n\n\nhttps://www.youtube.com/watch?v=PJPFLHw8lKI\nQUESTIONS?"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Terry O’Malley",
+    "section": "",
+    "text": "Hi, I’m Terry O’Malley. I am an economist and data scientist working in tech.\nPrior to jumping to industry, I worked as a research economist at the Central Bank of Ireland and did my PhD at University College Dublin.\nI mainly work on causal inference and econometrics problems, as well as using microeconomic theory to help guide business decisions around things like selection, pricing and operations."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Terry O’Malley",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nCausal Inference & Econometrics\nMicroeconomic Theory\nSelection, Pricing & Operations\nFinancial Risk Modeling"
+  },
+  {
+    "objectID": "index.html#contact-profiles",
+    "href": "index.html#contact-profiles",
+    "title": "Terry O’Malley",
+    "section": "Contact & Profiles",
+    "text": "Contact & Profiles\n\n\n📧 Email\n🎓 Google Scholar\n📄 SSRN\n💼 LinkedIn\n🐙 GitHub"
+  },
+  {
+    "objectID": "index.html#selected-publications",
+    "href": "index.html#selected-publications",
+    "title": "Terry O’Malley",
+    "section": "Selected Publications",
+    "text": "Selected Publications\nSee my Publications page for the full list."
+  },
+  {
     "objectID": "talks.html",
     "href": "talks.html",
     "title": "Talks",
     "section": "",
     "text": "UCD Career Talk (2025)\nSlides"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "The Impact of Repossession Risk on Mortgage Default\nThe Journal of Finance, 2021\nTerry O’Malley\nPDF\n\n\nThe Good, the Bad and the Impaired: A Credit Risk Model of the Irish Mortgage Market\nJournal of Financial Stability, 2016\nRobert Kelly and Terry O’Malley\nDOI"
+  },
+  {
+    "objectID": "publications.html#published-work",
+    "href": "publications.html#published-work",
+    "title": "Publications",
+    "section": "",
+    "text": "The Impact of Repossession Risk on Mortgage Default\nThe Journal of Finance, 2021\nTerry O’Malley\nPDF\n\n\nThe Good, the Bad and the Impaired: A Credit Risk Model of the Irish Mortgage Market\nJournal of Financial Stability, 2016\nRobert Kelly and Terry O’Malley\nDOI"
+  },
+  {
+    "objectID": "publications.html#working-papers",
+    "href": "publications.html#working-papers",
+    "title": "Publications",
+    "section": "Working Papers",
+    "text": "Working Papers\n\n[Your Working Paper Title]\nWork in Progress\nTerry O’Malley\n\n\n[Another Working Paper Title]\nWork in Progress\nTerry O’Malley\n\n\nFor a complete list of publications and citations, see my\nGoogle Scholar | SSRN | ResearchGate"
   }
 ]

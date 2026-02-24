@@ -1,25 +1,43 @@
 ---
-title: Terry O'Malley 
+title: "Terry O'Malley"
+subtitle: "Economist & Data Scientist"
 bibliography: resources/mine.bib
-nocite: |
-  @*
 ---
 
-Hi. I am an economist and data scientist working in tech. 
+::: {.container style="max-width: 800px; margin: 0 auto;"}
 
-Prior to jumping to industry, I worked as a research economist at the Central Bank of Ireland and did my PhD at University College Dublin.
+Hi, I'm **Terry O'Malley**. I am an economist and data scientist working in tech.
 
-I mainly work on causal inference and econometrics problems, as well as using microeconomic theory to help guide business decisions around things like selection, pricing and operations.
+Prior to jumping to industry, I worked as a research economist at the **Central Bank of Ireland** and did my PhD at **University College Dublin**.
 
-::: {.figure-caption style="text-align: center; font-size: 0.8em;"}
-![Young me, in good company.](resources/me.png)
+I mainly work on **causal inference** and **econometrics** problems, as well as using microeconomic theory to help guide business decisions around things like selection, pricing and operations.
+
 :::
 
-::: {.content-hidden}
-# Hidden content to ensure proper spacing
+::: {.container style="max-width: 800px; margin: 2rem auto; text-align: center;"}
+![Young me, in good company.](resources/me.png){width="300"}
 :::
 
-# Publications {#publications}
+## Research Interests
+
+- Causal Inference & Econometrics
+- Microeconomic Theory
+- Selection, Pricing & Operations
+- Financial Risk Modeling
+
+## Contact & Profiles
+
+::: {.container style="max-width: 800px; margin: 2rem auto;"}
+- 📧 [Email](mailto:your.email@example.com)
+- 🎓 [Google Scholar](https://scholar.google.com/)
+- 📄 [SSRN](https://ssrn.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/)
+- 🐙 [GitHub](https://github.com/terryomalley)
+:::
+
+## Selected Publications
+
+See my [Publications](publications.qmd) page for the full list.
 
 ::: {#refs}
 :::

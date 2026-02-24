@@ -1,0 +1,103 @@
+/* Custom styles for Terry O'Malley's website */
+
+/* Hero section styling */
+.title-block-header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 3rem 2rem;
+    border-radius: 0 0 20px 20px;
+    margin-bottom: 2rem;
+}
+
+.title-block-header h1 {
+    color: white !important;
+    font-weight: 700;
+}
+
+.title-block-header p {
+    color: rgba(255, 255, 255, 0.9) !important;
+    font-size: 1.2rem;
+}
+
+/* Card styling for publications */
+.card {
+    background: white;
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+    border-left: 4px solid #667eea;
+}
+
+.card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
+}
+
+/* Profile image styling */
+figure img {
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+/* Section headers */
+h2 {
+    color: #667eea;
+    border-bottom: 3px solid #667eea;
+    padding-bottom: 0.5rem;
+    margin-top: 2.5rem;
+}
+
+/* Link styling */
+a {
+    color: #667eea;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+a:hover {
+    color: #764ba2;
+    text-decoration: underline;
+}
+
+/* Navbar styling */
+.navbar {
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer styling */
+.page-footer {
+    background: #f8f9fa;
+    padding: 2rem 0;
+    margin-top: 4rem;
+    border-top: 1px solid #e9ecef;
+}
+
+/* Contact links */
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul li {
+    padding: 0.5rem 0;
+}
+
+/* Research interests */
+.research-interests {
+    background: #f8f9fa;
+    padding: 1.5rem;
+    border-radius: 10px;
+    margin: 2rem 0;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .title-block-header {
+        padding: 2rem 1rem;
+    }
+    
+    .card {
+        margin: 1rem 0;
+    }
+}
